@@ -1,6 +1,6 @@
 # Fundraising-Project-Success-Prediction
 
-BACKGROUND
+**BACKGROUND**
 
 Crowdfunding is the process of obtaining funds for a project or company from many individuals, generally over the Internet. Typically, crowdfunding involves three actors: the fundraising team that presents the concept or project to be funded, individuals or groups who support the idea, and a moderating organisation, such as a listing website, that brings those parties together to launch the idea.
 
